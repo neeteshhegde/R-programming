@@ -1,5 +1,9 @@
-## Problem set No. 4 - R BUAN 6356
-## Mahesh.M.Iyer - mmi170000
+###########################################################
+## Author:   Neetesh Hegde
+## Date:     2018-09-05
+## Title:    PS4.R
+## Purpose:  R Code for Assignment 4 of BUAN 6356 course
+###########################################################
 
 rm(list=ls())
 
